@@ -10,5 +10,5 @@ Mark for deconstruction a selected entity with a single key stroke! Just hover o
 
 # Changelog
 
-1.0.0 (03/04/2019)
+### 1.0.0 (03/04/2019)
 * Initial release.
