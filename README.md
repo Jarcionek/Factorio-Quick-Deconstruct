@@ -7,6 +7,8 @@ Factorio mod that allows to deconstruct selected building easily
 
 Mark for deconstruction a selected entity with a single key stroke! Just hover over the building and hit DELETE (configurable) and your robots will do the rest.
 
+Warning: Does not work with "Undo" shortcut!
+
 
 # Changelog
 

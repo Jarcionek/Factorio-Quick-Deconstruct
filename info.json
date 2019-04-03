@@ -2,7 +2,7 @@
   "name": "QuickDeconstruct",
   "version": "1.0.0",
   "title": "Quick Deconstruct",
-  "description": "Mark for deconstruction a selected entity with a single key stroke! Just hover over the building and hit DELETE (configurable) and your robots will do the rest.",
+  "description": "Mark for deconstruction a selected entity with a single key stroke! Just hover over the building and hit DELETE (configurable) and your robots will do the rest.\nWarning: Does not work with \"Undo\" shortcut!",
   "author": "Jarcionek",
   "homepage": "https://github.com/Jarcionek/Factorio-Quick-Deconstruct",
   "factorio_version": "0.17",
